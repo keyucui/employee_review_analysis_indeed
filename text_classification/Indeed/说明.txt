@@ -1,0 +1,1 @@
+embedding文件，由于预训练的词向量文件较大，这里删除了，可以通过执行gensim_train_word2vec重新生成。

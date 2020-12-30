@@ -1,0 +1,3 @@
+indeed_analysis_BA.ipynb 包括了员工评论的描述性分析
+
+indeed_analysis_BA.html 是notebook输出为html，便于展示和查看

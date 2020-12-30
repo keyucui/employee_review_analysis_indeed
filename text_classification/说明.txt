@@ -1,0 +1,8 @@
+由于数据较多，提交文件中只随机选择了10%的数据以供老师检查复现;
+
+tfidf_based_model.ipynb是使用传统模型分类算法的notebook；
+
+其余是深度学习算法部分；
+
+执行如下命令即可执行深度学习分类算法:
+python run.py --model TextRNN_Att --embedding random
